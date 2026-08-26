@@ -1,0 +1,11 @@
+Lisette Allen
+CIS263AA Fall 2026
+8/26/2026
+
+The IntelliJ IDEA IDE was listed in multiple of the links for best Java IDEs. I have heard 
+of PyCharm and thought that it was very interesting that the same company creates customized 
+IDEs for specific languages. This is probably similar to how Microsoft has programs like Word, 
+Excel, and PowerPoint that follow a similar layout but have custom commands. While I think 
+this is an interesting and useful idea, I prefer to use a single IDE that can handle all of 
+the languages I have been learning. Ultimately, I followed the advice of the lesson and chose 
+an IDE that I am already familiar with.
