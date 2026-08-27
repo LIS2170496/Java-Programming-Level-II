@@ -1,1 +1,15 @@
-Created new file portfolioResource.txt
+Lisette Allen
+CIS263AA Fall 2026
+8/26/2026
+
+Now that I have had a formal introduction to GitHub, I plan on adding all of my projects from 
+previous classes to my account. It seems that showcasing your abilities through a GitHub 
+repository is common practice within the tech industry. GitHub will soon become a central holding 
+location for all of the programs I have created. By adding repositories for all of the work I have 
+completed, my GitHub account will grow and become a good starting portfolio for job searches.
+
+After reading through GitHub Pages documentation and watching some demos on how to use it, I am 
+eager to create my own page. I was impressed while looking through the 25 examples of web 
+developer portfolios and it inspired me to start thinking of how I might design my own. It seems 
+like it would be a fun way to express my own creativity and hopefully make a lasting impression 
+on potential future employers.
