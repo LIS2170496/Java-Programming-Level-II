@@ -1,0 +1,11 @@
+Lisette Allen
+CIS263AA Fall 2026
+8/26/2026
+
+I have chosen to use Visual Studio Code as my IDE for this course. This is the IDE that I have 
+been using for a few years now for various projects. I like that this IDE can handle Python, Java, 
+HTML, CSS, JavaScript, and SQL queries very well through different addons. While IntelliJ IDEA 
+likely works very well for Java programming, I would prefer to use a single program that can 
+support multiple use cases. If, in the future, I end up working exclusively with Java programming, 
+I may choose to revisit this decision. For now, I am keeping my options open and continuing to 
+use the IDE that I am most comfortable with.
